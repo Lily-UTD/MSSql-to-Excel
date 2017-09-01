@@ -9,3 +9,5 @@ This is a simple implementation in Python to run query in MS-SQL and insert resu
 1. This script depends on following two python modules for installing them run the following command  **pip install pyodbc openpyxl**
 
 # SQL File format
+
+![SQL File Rule](SQL-Query-rules.png)
